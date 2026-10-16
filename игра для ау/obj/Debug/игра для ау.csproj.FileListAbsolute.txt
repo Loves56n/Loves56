@@ -1,0 +1,35 @@
+C:\Users\student\Desktop\Олимпиада, Кабанов, 9б-23\Задание 3\Проект WinForms\игра для ау\игра для ау\obj\Debug\игра для ау.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Олимпиада, Кабанов, 9б-23\Задание 3\Проект WinForms\игра для ау\игра для ау\obj\Debug\игра_для_ау.Form1.resources
+C:\Users\student\Desktop\Олимпиада, Кабанов, 9б-23\Задание 3\Проект WinForms\игра для ау\игра для ау\obj\Debug\игра_для_ву.Form2.resources
+C:\Users\student\Desktop\Олимпиада, Кабанов, 9б-23\Задание 3\Проект WinForms\игра для ау\игра для ау\obj\Debug\игра_для_ау.Properties.Resources.resources
+C:\Users\student\Desktop\Олимпиада, Кабанов, 9б-23\Задание 3\Проект WinForms\игра для ау\игра для ау\obj\Debug\игра для ау.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Олимпиада, Кабанов, 9б-23\Задание 3\Проект WinForms\игра для ау\игра для ау\obj\Debug\игра для ау.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Олимпиада, Кабанов, 9б-23\Задание 3\Проект WinForms\игра для ау\игра для ау\bin\Debug\игра для ау.exe.config
+C:\Users\student\Desktop\Олимпиада, Кабанов, 9б-23\Задание 3\Проект WinForms\игра для ау\игра для ау\bin\Debug\игра для ау.exe
+C:\Users\student\Desktop\Олимпиада, Кабанов, 9б-23\Задание 3\Проект WinForms\игра для ау\игра для ау\bin\Debug\игра для ау.pdb
+C:\Users\student\Desktop\Олимпиада, Кабанов, 9б-23\Задание 3\Проект WinForms\игра для ау\игра для ау\obj\Debug\игра для ау.exe
+C:\Users\student\Desktop\Олимпиада, Кабанов, 9б-23\Задание 3\Проект WinForms\игра для ау\игра для ау\obj\Debug\игра для ау.pdb
+C:\Users\student\Desktop\Олимпиада, Кабанов, 9б-23\Задание 3\Проект WinForms\игра для ау\игра для ау\obj\Debug\игра_для_ау.Form3.resources
+C:\Users\student\Desktop\Олимпиада, Кабанов, 9б-23\Задание 3\Проект WinForms\игра для ау\игра для ау\obj\Debug\игра_для_ау.Form4.resources
+C:\Users\student\Desktop\Олимпиада, Кабанов, 9б-23\Задание 3\Проект WinForms\игра для ау\игра для ау\obj\Debug\игра_для_ау.Form5.resources
+C:\Users\student\Desktop\Олимпиада, Кабанов, 9б-23\Задание 3\Проект WinForms\игра для ау\игра для ау\obj\Debug\игра_для_ау.Form6.resources
+C:\Users\student\Desktop\Олимпиада, Кабанов, 9б-23\Задание 3\Проект WinForms\игра для ау\игра для ау\obj\Debug\игра_для_ау.Form7.resources
+C:\Users\student\Desktop\Олимпиада, Кабанов, 9б-23\Задание 3\Проект WinForms\игра для ау\игра для ау\obj\Debug\игра_для_ау.Form8.resources
+D:\игра для ау\игра для ау\bin\Debug\игра для ау.exe.config
+D:\игра для ау\игра для ау\bin\Debug\игра для ау.exe
+D:\игра для ау\игра для ау\bin\Debug\игра для ау.pdb
+D:\игра для ау\игра для ау\obj\Debug\игра для ау.csproj.AssemblyReference.cache
+D:\игра для ау\игра для ау\obj\Debug\игра_для_ау.Form1.resources
+D:\игра для ау\игра для ау\obj\Debug\игра_для_ву.Form2.resources
+D:\игра для ау\игра для ау\obj\Debug\игра_для_ау.Form3.resources
+D:\игра для ау\игра для ау\obj\Debug\игра_для_ау.Form4.resources
+D:\игра для ау\игра для ау\obj\Debug\игра_для_ау.Form5.resources
+D:\игра для ау\игра для ау\obj\Debug\игра_для_ау.Form6.resources
+D:\игра для ау\игра для ау\obj\Debug\игра_для_ау.Form7.resources
+D:\игра для ау\игра для ау\obj\Debug\игра_для_ау.Form8.resources
+D:\игра для ау\игра для ау\obj\Debug\игра_для_ау.Form9.resources
+D:\игра для ау\игра для ау\obj\Debug\игра_для_ау.Properties.Resources.resources
+D:\игра для ау\игра для ау\obj\Debug\игра для ау.csproj.GenerateResource.cache
+D:\игра для ау\игра для ау\obj\Debug\игра для ау.csproj.CoreCompileInputs.cache
+D:\игра для ау\игра для ау\obj\Debug\игра для ау.exe
+D:\игра для ау\игра для ау\obj\Debug\игра для ау.pdb
